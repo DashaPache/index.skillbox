@@ -1,0 +1,2 @@
+# index.skillbox
+Простая статья
